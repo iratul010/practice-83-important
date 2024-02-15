@@ -1,0 +1,13 @@
+nav a{
+  background-color: beige;
+}
+
+.active {
+ 
+   color: rgb(251, 0, 255);
+ 
+}
+.pending{
+ 
+   color: green;
+}
